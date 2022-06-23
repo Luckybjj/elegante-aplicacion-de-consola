@@ -1,0 +1,27 @@
+[
+    {
+        "id": "109cf32d-72c2-451c-b7b0-114581472399",
+        "desc": "Jugar a la pelota",
+        "completadoEn": null
+    },
+    {
+        "id": "9e4a2dcf-3ac6-4763-83ee-6ce593d07813",
+        "desc": "Curso de Node",
+        "completadoEn": null
+    },
+    {
+        "id": "b900955c-cb3f-417e-bb6a-7db50f2a3709",
+        "desc": "Curso de React",
+        "completadoEn": null
+    },
+    {
+        "id": "bc765026-d146-417b-9b6b-ba325cce11ca",
+        "desc": "Jugar Tenis",
+        "completadoEn": "2022-06-23T20:28:09.565Z"
+    },
+    {
+        "id": "36a37c4b-a46f-4833-84de-b752b04ab4c5",
+        "desc": "Calistenia",
+        "completadoEn": "2022-06-23T20:28:09.565Z"
+    }
+] 
